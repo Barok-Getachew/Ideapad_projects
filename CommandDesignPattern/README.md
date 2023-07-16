@@ -1,6 +1,6 @@
 # Command Designed Pattern - Java Implementation
 
-![Command Pattern Logo](images/images.png)
+![Command Pattern Logo](images.png)
 
 Command Designed Pattern is a behavioral design pattern in Java that converts requests or simple operations into objects. This pattern allows decoupling of sender and receiver objects, providing flexibility and extensibility to the application. The project showcases a Java implementation of the Command Pattern and provides an example scenario where it can be utilized effectively.
 
