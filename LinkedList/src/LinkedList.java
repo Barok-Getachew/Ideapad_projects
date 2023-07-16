@@ -25,5 +25,9 @@ public class LinkedList {
                     System.out.println(node.data);
                     node =node.next;
                 }
+
+            }
+            public void remove(){
+
             }
 }

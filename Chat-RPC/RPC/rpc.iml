@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-8.0.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/activation.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/commons-codec.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/commons-fileupload.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/commons-io.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/commons-logging.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/commons-net.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/helma.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/jetty-ajp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/jetty-util.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/jetty.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/mail.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/rhino.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/servlet.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/tagsoup.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Materials/YEAR III SEMISTER II/Advaced Programming/Drpendencies/Library XML-RPC dan MySQL/Library XML-RPC dan MySQL/library XML-RPC/xmlrpc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
