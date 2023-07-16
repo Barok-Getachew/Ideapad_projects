@@ -42,7 +42,7 @@ Follow the instructions below to get the Chat-RPC project up and running on your
 
 ```bash
 git clone https://github.com/Barok-Getachew/chat-rpc.git
-
+```
 
 2. Open the project in your preferred Java IDE or text editor.
 
