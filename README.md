@@ -1,4 +1,4 @@
-# My Java Projects Repository
+# IdeaPad projects 
 
 This repository contains multiple Java projects which cover a variety of algorithms, data structures, and other interesting problems. 
 
