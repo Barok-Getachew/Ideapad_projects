@@ -1,6 +1,6 @@
 # My Java Projects Repository
 
-This repository contains multiple Java projects which cover a variety of algorithms, data structures, and other interesting problems. Here is a brief overview of each project.
+This repository contains multiple Java projects which cover a variety of algorithms, data structures, and other interesting problems. 
 
 
 
