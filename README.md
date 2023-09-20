@@ -20,7 +20,7 @@ This repository contains multiple Java projects which cover a variety of algorit
 
 ## Prerequisites
 
-To run these projects, you will need:
+To run these projects, you will need:-
 
 - Java JDK 11 or later
 - A simple text editor
